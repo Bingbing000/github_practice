@@ -56,15 +56,17 @@ hist(random_numbers3)
 ```
 
 # Random numbers 4
-<<<<<<< HEAD
-```{r, random-numbers4-histogram}
-#| fig.cap = "Fourth set of random numbers"
-hist(random_numbers4)
-```
-=======
 
 ```{r, random-numbers4-histogram}
 #| fig.cap = "Fourth set of random numbers"
 hist(random_numbers4)
 ```
->>>>>>> binomial2
+
+# Random numbers 5
+
+```{r, random-numbers5-histogram}
+#| fig.cap = "Fifth set of random numbers"
+hist(random_numbers5)
+```
+
+
