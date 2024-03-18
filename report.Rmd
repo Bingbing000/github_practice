@@ -28,9 +28,12 @@ random_numbers3 <- readRDS(
 )
 
 # add random num 4
->>>>>>> binomial2
 random_numbers4 <- readRDS(
   here::here("output/random_numbers4.rds")
+)
+
+random_numbers5 <- readRDS(
+  here::here("output/random_numbers5.rds")
 )
 ```
 
