@@ -26,6 +26,7 @@ saveRDS(
   file = here::here("output", "random_numbers3.rds")
 )
 
+
 set.seed(4)
 random_numbers4 <- rbinom(100, 1, 0.25)
 
